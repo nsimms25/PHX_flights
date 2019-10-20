@@ -1,4 +1,4 @@
-# PHX_flights
+# PHX Flights
 Python file to explore the open data for PHX international airport
 
 Information provided by
